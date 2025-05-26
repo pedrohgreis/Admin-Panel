@@ -8,5 +8,6 @@ type ThemeType = typeof defaultThemes;
 // * Toda vez que importar o styled components,
 // * a tipagem que ele vai puxar vai ser oq foi definido aqui
 declare module "styled-components" {
+  // eslint-disable-next-line @typescript-eslint/no-empty-object-type
   export interface DefaultTheme extends ThemeType {}
 }

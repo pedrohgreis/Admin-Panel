@@ -1,0 +1,8 @@
+# Arquivos de texto devem usar LF
+* text=auto eol=lf
+
+# Scripts devem usar LF
+*.sh text eol=lf
+
+# Arquivos de lock devem usar LF
+pnpm-lock.yaml text eol=lf
