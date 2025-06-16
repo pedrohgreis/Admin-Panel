@@ -51,6 +51,7 @@ export const ButtonsContainer = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 1.5rem;
   margin-top: 2rem;
 
   width: 100%;

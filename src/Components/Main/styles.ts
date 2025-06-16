@@ -32,8 +32,8 @@ export const MainContent = styled.section`
 `;
 
 export const InfoContainer = styled.div`
-  width: 18.6875rem;
-  height: 30.875rem;
+  width: 17.6875rem;
+  height: 26.875rem;
 
   background-color: ${({ theme }) => theme["pink-200"]};
   border-radius: 60px;
