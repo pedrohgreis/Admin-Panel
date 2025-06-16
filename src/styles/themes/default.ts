@@ -3,7 +3,9 @@ export const defaultThemes = {
 
   "pink-50": "#FFF0F5",
   "pink-200": "#FFC2D1",
+  "pink-300": "#f68dab",
   "pink-400": "#ed6691",
+  "pink-500": "#d94f7e",
 
   "gray-100": "#EEE4E4",
   "gray-200": "#99A1AF",
